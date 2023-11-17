@@ -31,7 +31,7 @@ jobs:
 
       # Install deps
       - name: Install deps
-        run: sudo apt-get install -y qt5-default libqt5x11extras5-dev libxrandr-dev libxv-dev libasound2-dev scons zlib1g-dev
+        run: sudo apt-get install -y qtdeclarative5-dev libqt5x11extras5-dev libxrandr-dev libxv-dev libasound2-dev scons zlib1g-dev
 
       # Build sameboy
       - name: Building sameboy...
