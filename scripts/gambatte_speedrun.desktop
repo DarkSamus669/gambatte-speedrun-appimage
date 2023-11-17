@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Icon=gambatte_speedrun
+Exec=gambatte_speedrun %f
+Terminal=false
+Type=Application
+Name=Gambatte speedrun
+GenericName=Gambatte speedrun
+Comment=Game Boy Color emulator
+Categories=Game;Emulator;
+MimeType=application/x-gameboy-rom;application/x-gme Boy Color emulatorameboy-color-rom;
+Keywords=emulator;Nintendo;gbc;gb;Game Boy Color;
